@@ -1,4 +1,3 @@
-import random 
 from random_word import RandomWords
 
 print("Hangman Game")
