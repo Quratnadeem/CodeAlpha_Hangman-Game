@@ -11,7 +11,7 @@ guessed_letters = []
 hangmaan_parts = [
     """
       +---+
-          |
+          []
           |
           |
           |
